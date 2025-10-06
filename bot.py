@@ -6,5 +6,6 @@ from util import *
 # тут будем писать наш код :)
 
 
-app = ApplicationBuilder().token("telegram-token").build()
+app = ApplicationBuilder().token(
+    "6464706338:AAHlWtteKxxy9wDHKVjwygoj4hycZ3CU8FY").build()
 app.run_polling()
