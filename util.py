@@ -76,3 +76,6 @@ def load_prompt(name):
 
 class Dialog:
     pass
+
+
+a = b*c
